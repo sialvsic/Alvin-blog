@@ -20,6 +20,7 @@ menu:
 sitemap:
   path: sitemap.xml
 
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
@@ -82,8 +83,7 @@ deploy:
   repository: git@github.com:sialvsic/sialvsic.github.io.git
 
 # my head picture
-avatar: /uploads/avatar.jpg
-
+avatar: /images/avatar.jpg
 
 # comments
 duoshuo_shortname: sialvsic
@@ -123,3 +123,9 @@ social_icons:
 auto_excerpt:
   enable: true
   length: 150
+
+# Local Search
+# 添加百度/谷歌/本地 自定义站点内容搜索
+search:
+  path: search.xml
+  field: post
