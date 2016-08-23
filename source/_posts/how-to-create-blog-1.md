@@ -170,7 +170,7 @@ hexo s
 
 *note* ：利用**账户.github.io** 这种方式搭建博客，每个github账户只能创建一个。
 
-### 发步到GitHub上
+### 发布到GitHub上
 
 1.配置xx文件
 
