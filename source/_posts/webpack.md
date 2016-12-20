@@ -418,6 +418,8 @@ webpack-dev-server支持两种模式的自动刷新。
 代码：
 阮一峰webpack-demo：https://github.com/ruanyf/webpack-demos
 
+库：
+自己实现的：https://github.com/sialvsic/webpack-demo
 
 
 
